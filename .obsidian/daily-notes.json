@@ -1,3 +1,5 @@
 {
-  "folder": "Draft notes"
+  "folder": "daily",
+  "autorun": false,
+  "template": "daily/Life Cache"
 }

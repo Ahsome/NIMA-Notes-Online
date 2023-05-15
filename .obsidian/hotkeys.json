@@ -1,5 +1,22 @@
 {
-  "templater-obsidian:replace-in-file-templater": [
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [
     {
       "modifiers": [
         "Mod"
@@ -7,13 +24,13 @@
       "key": "R"
     }
   ],
-  "obsidian-smarter-md-hotkeys:smarter-strikethrough": [
+  "table-editor-obsidian:format-all-tables": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
-      "key": "L"
+      "key": "F"
     }
   ]
 }

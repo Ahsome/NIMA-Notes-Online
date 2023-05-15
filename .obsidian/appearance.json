@@ -1,10 +1,6 @@
 {
-  "accentColor": "",
-  "enabledCssSnippets": [
-    "dashboard",
-    "dashboard-readline"
-  ],
+  "baseFontSize": 16,
   "theme": "moonstone",
-  "baseFontSize": 13,
-  "cssTheme": ""
+  "cssTheme": "Things",
+  "translucency": false
 }
