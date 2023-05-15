@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-readline"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 13,
+  "cssTheme": ""
+}
