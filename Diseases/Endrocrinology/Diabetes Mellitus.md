@@ -68,8 +68,8 @@ Defined by:
 Risk factors include:
 | Type 1                                                                                     | Type 2                                                                                             | Type 3c           | Gestational |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ----------------- | ----------- |
-| Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo | **Obesity (Major)**                                                                                | Pancreatic Cancer | Pregnancy   |
-| Environment                                                                                | Family history<br>Strong genetic component, more than [[Diabetes Mellitus#Type I DM]]<br>Any 1st degree relative: 2-3x risk | Pancreas removal  |             |
+| Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo |**Obesity (Major)**| Pancreatic Cancer | Pregnancy   |
+| Environment                                                                                |Family history<br>Strong genetic component, more than [[Diabetes Mellitus#Type I DM]]<br>Any 1st degree relative: 2-3x risk| Pancreas removal  |             |
 | **Family history** (Major)                                                                 | Sedentary lifestyle                                                                                | CF                |             |
 | Smoking                                                                                    |                                                                                                    | Hemochromatosis                  |             | ^14928e
 
@@ -236,6 +236,17 @@ Lastly, **bariatric surgery** can be done for obese patients (BMI >35). This lea
 Other options:
 1. SGLT-2 inhibitor: Use if there is a of [[Coronary Artery Disease]], it has a protective effect and reduced morbidity
 2. GLP1 Inhibitor: Useful for strong weight loss, helps with comorbidities
+
+| Medication Class      | Indications                                               | Common Side Effects                          | Contraindications                                                                   |
+|-----------------------|-----------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------|
+| Metformin             | First-line treatment for T2DM                              | Nausea, diarrhea, abdominal discomfort       | Renal impairment, liver disease, acute illness, contrast dye procedures              |
+| Sulfonylureas         | T2DM patients with adequate beta-cell function             | Hypoglycemia, weight gain, allergic reactions | Severe renal or hepatic impairment, sulfa allergy                                    |
+| Dipeptidyl Peptidase-4 (DPP-4) Inhibitors | T2DM patients inadequately controlled with metformin or as an alternative to sulfonylureas | Upper respiratory tract infection, joint pain | Severe renal impairment                                                            |
+| Thiazolidinediones    | T2DM patients with insulin resistance or inadequate glycemic control | Edema, weight gain, increased fracture risk | Heart failure, liver disease                                                       |
+| Sodium-Glucose Co-Transporter-2 (SGLT2) Inhibitors | T2DM patients with cardiovascular disease or chronic kidney disease | Genital mycotic infections, increased urination | Severe renal impairment, ketoacidosis                                              |
+| GLP-1 Receptor Agonists | T2DM patients with inadequate glycemic control or weight management benefits | Nausea, vomiting, injection site reactions | History of medullary thyroid carcinoma or multiple endocrine neoplasia syndrome type 2 |
+| Insulin               | T2DM patients with inadequate glycemic control              | Hypoglycemia, weight gain, injection site reactions | Allergy to insulin, hypoglycemia unawareness, acute illness                          |
+
 
 >[!Important]
 >![[Diabetes Mellitus#^da509f]]

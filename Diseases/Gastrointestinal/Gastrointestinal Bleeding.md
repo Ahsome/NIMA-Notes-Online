@@ -23,12 +23,12 @@ Upper GI bleeding, also called hematemesis, is bleeding that is proximal to the 
 Common causes include (Italic is most):
 - *[[Peptic Ulcer Disease]]*
 - *[[Erosive gastritis]]*
-- *[[Erosive esophagitis]]*
+- *[[Gastro-oesophagus Reflux Disease (GORD)#^72cac3|Erosive esophagitis]]*
 - [[Esophageal Cancer]]
 - [[Esophageal varices]] or [[Gastric varices]]
 	- Normally due to [[Cirrhosis]]
 - [[Portal hypertensive gastropathy]]
-	- Normally due to [[Portal Hypertension]] fro [[Chronic Liver Disease]]
+	- Normally due to [[Portal Hypertension]] from [[Chronic Liver Disease]]
 - [[Mallory-Weiss tear]]
 
 ### Lower GI bleeding
@@ -58,7 +58,7 @@ Lower GI risk factors:
 1. Cirhossis. Think [[Esophageal varices]] and [[Gastric varices]]
 2. Alcohol. Think [[Mallory-Weiss tear]], and [[Cirrhosis]]
 3. NSAIDs: Think [[Peptic Ulcer Disease]]
-4. H Pylori. Think exacerbations of [[GORD]], leading to [[Erosive esophagitis]] and [[Esophageal Cancer]]
+4. H Pylori. Think exacerbations of [[Gastro-oesophagus Reflux Disease (GORD)]], leading to [[Erosive esophagitis]] and [[Esophageal Cancer]]
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -79,15 +79,13 @@ Lower GI risk factors:
 ## Investigations
 |Key Tests|Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Nasogastric lavage|Coffee-ground or bright red blood|Indicates hematochezia is actually [[#Upper GI bleeding]]|
+|Nasogastric lavage |Coffee-ground or bright red blood|Indicates hematochezia is actually [[#Upper GI bleeding]]|
 |FBC|Hgb, Hc|  |
 |Platelets|  |  |
 |PT/PTT/INR|  |  |
 |Type and screen |  |Needed for transfusion, if necessary|
+|Pill camera|Looking for lesions|Especially for males, if both the endoscope and colonoscope are both negative|
 
-|Additional Tests|  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
@@ -99,10 +97,10 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 	1. Many patients just from IV fluids become stable
 3. If not helped by IV fluids, need to check criteria for blood transfusion
 	1. Individualised to patient, differs across hospital
-	2. Hgb < 8mg/dL  for young, low risk patients
-	3. Hgb < 9mg/dL or older, comorbid patients
-	4. Hgb < 7mg/dL for variceal bleeds
-		1. Lower because due to portal hypertension, transfusion can further increase pressure
+	2. Hgb < 80mg/dL  for young, low risk patients
+	3. Hgb < 90mg/dL or older, comorbid patients
+	4. Hgb < 70mg/dL for variceal bleeds
+		1. Lower because due to [[Portal Hypertension]], transfusion can further increase pressure
 4. Platelet transfusion if platelets < 50k
 5. FFP or prothrombin complex for coagulopathy
 
@@ -155,6 +153,7 @@ Medical management:
 	1. Used *only for variceal bleeds* with *[[Cirrhosis]]*
 	2. Given as up to 20% develop infections, often spontaneous bacterial [[Peritonitis]]
 	3. Also shown to ⬇️ bleeding
+	4. To prophylactically treat [[Liver Failure and Cirrhosis#^13de6d|SBP]] use **==ciprofloxacin==** or **==trimethoprim ==**
 
 Main stay management:
 1. **Upper endoscopy**:
